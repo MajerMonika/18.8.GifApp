@@ -1,0 +1,24 @@
+{
+  "name": "18.8.GifApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajerMonika/18.8.GifApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajerMonika/18.8.GifApp/issues"
+  },
+  "homepage": "https://github.com/MajerMonika/18.8.GifApp#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
